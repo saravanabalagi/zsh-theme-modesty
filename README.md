@@ -1,5 +1,7 @@
-# modesty.zsh-theme
+# Modesty
 A clean and modest zsh theme with support for condaenv, virtualenv and git neatly right aligned while the folder you are in is displayed 
+
+![Screencast](screencast.gif)
 
 ## Installation
 
@@ -19,6 +21,10 @@ Then edit your `~/.zshrc` file to include the following, replace `ZSH_THEME` val
 ```
 ZSH_THEME="modesty"
 ```
+
+Enjoy Modesty
+
+![Screenshot](screenshot.png)
 
 ## Licence
 

@@ -5,13 +5,13 @@ A clean and modest zsh theme with support for condaenv, virtualenv and git neatl
 
 ## Installation
 
-You can download [modesty.zsh-theme](https://github.com/saravanabalagi/modesty.zsh-theme/raw/master/modesty.zsh-theme) and place it in `$ZSH_CUSTOM/themes` (usually at `~/.oh-my-zsh/custom/themes`)
+You can download [modesty.zsh-theme](https://github.com/saravanabalagi/zsh-theme-modesty/raw/master/modesty.zsh-theme) and place it in `$ZSH_CUSTOM/themes` (usually at `~/.oh-my-zsh/custom/themes`)
 
 or use the following script to do the same
 
 ```
 mkdir temp
-git clone https://github.com/saravanabalagi/modesty.zsh-theme temp
+git clone https://github.com/saravanabalagi/zsh-theme-modesty temp
 mv temp/modesty.zsh-theme $ZSH_CUSTOM/themes
 rm -rf temp
 ```
